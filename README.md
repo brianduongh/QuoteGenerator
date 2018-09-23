@@ -1,7 +1,7 @@
 # Game of Thrones Quote Generator
 
 This is project is built to demonstrate my skills with REST APIs and responsive web design. It is a random Game of Thrones quote generator. There is a two buttons, one that allows you to generate a new quote and one that allows you to tweet the quote.
-App can be viewed * [here] (https://brianduongh.github.io/QuoteGenerator/)
+App can be viewed [here.](https://brianduongh.github.io/QuoteGenerator/)
 
 ## Getting Started
 
