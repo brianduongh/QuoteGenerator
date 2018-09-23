@@ -1,0 +1,5 @@
+.container {
+  max-width: 45em;
+  margin: auto; }
+  .container .loading {
+    text-align: center; }

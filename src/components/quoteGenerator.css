@@ -1,0 +1,21 @@
+.quote-box {
+  font-size: 3rem; }
+  .quote-box .character {
+    text-align: right; }
+  .quote-box h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 4rem;
+    text-align: center;
+    padding-bottom: 20px; }
+
+.buttons {
+  display: flex;
+  flex-direction: column; }
+  .buttons Button {
+    font-size: 2rem;
+    border-radius: 0; }
+
+@media only screen and (min-width: 600px) {
+  .quote-box {
+    padding-top: 200px; } }
