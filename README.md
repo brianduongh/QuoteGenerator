@@ -3,11 +3,7 @@
 This is project is built to demonstrate my skills with REST APIs and responsive web design. It is a random Game of Thrones quote generator. There is a two buttons, one that allows you to generate a new quote and one that allows you to tweet the quote.
 App can be viewed [here.](https://brianduongh.github.io/QuoteGenerator/)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Installing
+## Installing
 
 Pull repository and start it. Enjoy.
 
